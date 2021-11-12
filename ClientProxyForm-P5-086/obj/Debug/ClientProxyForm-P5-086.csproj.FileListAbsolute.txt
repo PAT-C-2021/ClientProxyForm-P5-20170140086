@@ -1,0 +1,10 @@
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\bin\Debug\ClientProxyForm-P5-086.exe.config
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\bin\Debug\ClientProxyForm-P5-086.exe
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\bin\Debug\ClientProxyForm-P5-086.pdb
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\obj\Debug\ClientProxyForm-P5-086.csprojAssemblyReference.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\obj\Debug\ClientProxyForm_P5_086.Form1.resources
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\obj\Debug\ClientProxyForm_P5_086.Properties.Resources.resources
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\obj\Debug\ClientProxyForm-P5-086.csproj.GenerateResource.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\obj\Debug\ClientProxyForm-P5-086.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\obj\Debug\ClientProxyForm-P5-086.exe
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 6\ClientProxyForm-P5-086\ClientProxyForm-P5-086\obj\Debug\ClientProxyForm-P5-086.pdb
